@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.651212be.css",
+    "main.js": "/static/js/main.28a7987d.js",
+    "static/media/BirdsFlow2.PNG": "/static/media/BirdsFlow2.c5bb6d307e10c0b34c69.PNG",
+    "static/media/4_BaliMyna.png": "/static/media/4_BaliMyna.b6d3ec53546600ecfc27.png",
+    "static/media/6_Kingfisher.png": "/static/media/6_Kingfisher.7728b3cd2a73b3c70581.png",
+    "static/media/3_BlacknappedFruit Dove.png": "/static/media/3_BlacknappedFruit Dove.1e807b3e1eb29cf92952.png",
+    "static/media/2_StorkbilledKingfisher.png": "/static/media/2_StorkbilledKingfisher.b9f298bf6c4d2c5a63d7.png",
+    "static/media/1_Orange-belliedLeafbird.jpg": "/static/media/1_Orange-belliedLeafbird.73cd99abfbbbc954a6f7.jpg",
+    "static/media/14_Black-napedMonarch.jpg": "/static/media/14_Black-napedMonarch.ca434d6c5c05daea1682.jpg",
+    "static/media/20_EurasianTreeSparrow.jpg": "/static/media/20_EurasianTreeSparrow.912e1518b51bdd6bdfab.jpg",
+    "static/media/5_SavannaNightjar.png": "/static/media/5_SavannaNightjar.99a1bf687f99b14ccec5.png",
+    "static/media/18_BurmeseYuhina.jpg": "/static/media/18_BurmeseYuhina.23380451677894029e04.jpg",
+    "static/media/16_Chestnut-tailedStarling.jpg": "/static/media/16_Chestnut-tailedStarling.61cf3baa140bb2471731.jpg",
+    "static/media/8_HaircrestedDrongo.jpg": "/static/media/8_HaircrestedDrongo.1882b054a768626d9093.jpg",
+    "static/media/17_HoodedTreepie.jpg": "/static/media/17_HoodedTreepie.624f46d1c628ba44bc51.jpg",
+    "static/media/BirdsFlow1.PNG": "/static/media/BirdsFlow1.1a6e64e19b6b341ef695.PNG",
+    "static/media/9_Black-hoodedOriole.jpg": "/static/media/9_Black-hoodedOriole.da22c011b195467dbd6e.jpg",
+    "static/media/13_Olive-backedSunbird.jpg": "/static/media/13_Olive-backedSunbird.18b223f533da1417e70a.jpg",
+    "static/media/19_Scaly-breastedMunia.jpg": "/static/media/19_Scaly-breastedMunia.2aeca25bb03b46268e58.jpg",
+    "static/media/11_Ashy-headedGreenPigeon.jpg": "/static/media/11_Ashy-headedGreenPigeon.7007a173948438551f3b.jpg",
+    "static/media/15_White-rumpedShama.jpg": "/static/media/15_White-rumpedShama.973442aaea87993d62fe.jpg",
+    "static/media/BirdsMindMap.PNG": "/static/media/BirdsMindMap.2bad385d43a33159dd24.PNG",
+    "static/media/7_BluethroatedFlycatcher.jpg": "/static/media/7_BluethroatedFlycatcher.a601dd3b1a4de2afef4f.jpg",
+    "static/media/12_Chestnut-cappedlaughingthrush.jpg": "/static/media/12_Chestnut-cappedlaughingthrush.e552072f90bf2ec827a8.jpg",
+    "static/media/10_LineatedBarbet.jpg": "/static/media/10_LineatedBarbet.1eda7e028518e0191e8e.jpg",
+    "static/media/Dee_zigns.jpg": "/static/media/Dee_zigns.02238398020250e0ca58.jpg",
+    "static/media/README.md": "/static/media/README.a7c73e7d89a3ce1370d7.md",
+    "index.html": "/index.html",
+    "main.651212be.css.map": "/static/css/main.651212be.css.map",
+    "main.28a7987d.js.map": "/static/js/main.28a7987d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651212be.css",
+    "static/js/main.28a7987d.js"
+  ]
+}
